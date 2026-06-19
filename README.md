@@ -1,1 +1,1 @@
-device detactect auto
+device detactect auto switch
