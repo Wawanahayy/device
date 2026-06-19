@@ -1,1 +1,1 @@
-device detact
+device detactect auto
